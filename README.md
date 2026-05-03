@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I’m Hardik Jaiswal  <br><br>💡 Building today what others imagine tomorrow.<br><br>I love exploring and creating with:  <br>- ⚛️ React.js → interactive, scalable web apps  <br>- 📱 Flutter → cross-platform mobile experiences  <br>- 🎮 Unreal Engine → experimenting with game dev & immersive worlds  <br>- 🐍 Python + C++ → my go-to languages for problem solving  <br>- 🤖 TensorFlow & scikit-learn → AI/ML experiments & model building  <br>- ⚡ FastAPI & 🔥 Flask → rapid, efficient backend APIs  <br><br>✨ Always curious, always building — whether it’s an AI tool, a mobile app, a game prototype, or just solving the next tough algorithmic puzzle.</h3>
+<h3 align="center">👋 Hi, I’m Hardik Jaiswal  <br><br>💡 Building today what others imagine tomorrow.<br><br>🌐 <b>Check out my portfolio:</b> <a href="https://hk19portfolio.netlify.app/" target="_blank">hk19portfolio.netlify.app</a><br><br>I love exploring and creating with:  <br>- ⚛️ React.js → interactive, scalable web apps  <br>- 📱 Flutter → cross-platform mobile experiences  <br>- 🎮 Unreal Engine → experimenting with game dev & immersive worlds  <br>- 🐍 Python + C++ → my go-to languages for problem solving  <br>- 🤖 TensorFlow & scikit-learn → AI/ML experiments & model building  <br>- ⚡ FastAPI & 🔥 Flask → rapid, efficient backend APIs  <br><br>✨ Always curious, always building — whether it’s an AI tool, a mobile app, a game prototype, or just solving the next tough algorithmic puzzle.</h3>
 
 ###
 
@@ -27,6 +27,9 @@
 ###
 
 <div align="center">
+  <a href="https://hk19portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio badge"  />
+  </a>
   <a href="https://www.linkedin.com/in/hardik-jaiswal-901690288/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -34,7 +37,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://leetcode.com/u/GoDXVictoryRR/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LEETCODE&logo=itch&label=&color=000000&logoColor=yellow&labelColor=yellow&style=for-the-badge" height="25" alt="itch logo"  />
+    <img src="https://img.shields.io/static/v1?message=LEETCODE&logo=leetcode&label=&color=000000&logoColor=yellow&labelColor=yellow&style=for-the-badge" height="25" alt="leetcode logo"  />
   </a>
 </div>
 
